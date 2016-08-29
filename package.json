@@ -1,0 +1,30 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "an intro to Node with Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErinGreenhalgh/pizza-express.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Steve Kinney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErinGreenhalgh/pizza-express/issues"
+  },
+  "homepage": "https://github.com/ErinGreenhalgh/pizza-express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "request": "^2.74.0"
+  }
+}
